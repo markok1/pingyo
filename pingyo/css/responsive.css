@@ -1,0 +1,87 @@
+@media (max-width: 992px) {
+  .toparea {
+    padding-top: 25px;
+    padding-bottom: 25px; }
+  .opportunities {
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .opportunities h1 {
+    font-size: 30px;
+    line-height: unset; }
+  .opportunities h2 {
+    font-size: 20px;
+    line-height: unset;
+    margin-top: 5px; }
+  .sec3 .wrapper {
+    max-width: 500px; }
+  .mainbtn a {
+    font-size: 20px;
+    line-height: 50px; }
+  .sec3 {
+    padding-top: 60px;
+    padding-bottom: 60px; }
+  .sec5 h1, .sec7 h1, .sec6 h1 {
+    font-size: 30px;
+    line-height: unset; }
+  .iframeforquestions iframe {
+    height: 600px; } }
+
+@media (max-width: 768px) {
+  .iframeforquestions iframe {
+    height: 550px; }
+  .sec6_cont .box p br, .sec4 p br {
+    display: none; }
+  .sec4 p .phonealso {
+    display: block !important; }
+  .sec5 h1, .opportunities h1, .sec7 h1, .sec6 h1 {
+    font-size: 22px; }
+  .opportunities h2 {
+    font-size: 17px; }
+  .sec6_cont .box p, .sec5 p, .sec3 .box p, .sec4 p {
+    font-size: 14px; }
+  .sec3 .boxbigger {
+    max-width: 180px; }
+  .sec5, .sec3, .sec4 {
+    padding-top: 40px;
+    padding-bottom: 40px; }
+  .sec6_cont {
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  .sec6_cont .box .placeforimg {
+    min-height: unset;
+    margin-bottom: 10px; }
+  .sec4 .circle {
+    width: 140px;
+    height: 140px; }
+  .sec4 .circle h1 {
+    font-size: 42.63px;
+    line-height: 30px;
+    padding-top: 5px; }
+  .sec4 .circle h1 span {
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 3px; }
+  .sec4 p {
+    margin-top: 20px; }
+  .sec7 {
+    padding-top: 25px;
+    padding-bottom: 25px; }
+  .sec5 img {
+    margin-top: 30px; }
+  .sec6_cont .col-12:last-child .box {
+    margin-bottom: 0; } }
+
+@media (max-width: 450px) {
+  .sec5 h1, .opportunities h1, .sec7 h1, .sec6 h1 {
+    font-size: 19px; }
+  .opportunities h2 {
+    font-size: 16px; }
+  .footer ul li {
+    padding-left: 8px;
+    padding-right: 8px; }
+  .footer img, .toparea img {
+    max-width: 150px; } }
+
+@media (max-width: 420px) {
+  .iframeforquestions iframe {
+    height: 520px; } }
